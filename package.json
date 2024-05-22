@@ -1,0 +1,23 @@
+{
+    "name": "com.sandernonaka.snkdevtools",
+    "version": "0.0.1",
+    "displayName": "Snk Dev Tools",
+    "description": "Tools for developing games",
+    "unity": "2019.1",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+    },
+    "keywords": [
+        "snk"
+    ],
+    "author": {
+        "name": "Sander S. Nonaka",
+        "email": "contact@sandernonaka.com.br",
+        "url": "https://www.sandernonaka.com.br"
+    },
+    "samples": {
+        "displayName": "Demo Sample 1",
+        "description": "Demos",
+        "path" : "Samples~/DemoSample1"
+    }
+}
